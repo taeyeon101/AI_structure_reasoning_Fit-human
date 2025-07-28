@@ -12,10 +12,10 @@
   * [Engineering scheme](2_use_cases/2.1_Engineering%20scheme.md)
   * [The implementation of programming code functions](2_use_cases/2.2_The%20implementation%20of%20programming%20code%20functions.md)
   * [Personality modeling](2_use_cases/2.3_Personality%20modeling.md)
-  * [future_extrapolation_case](2_use_cases/2.4_future%20extrapolation%20case.md)
+  * [future_extrapolation_case](2_use_cases/2.4_future_extrapolation_case.md)
 * human_interface_design
   * [Structural consistency](3_human_interface_design/3.1_Structural%20consistency.md)
-  * [error_loop_control](3_human_interface_design/3.2_error%20loop%20control.md)
+  * [error_loop_control](3_human_interface_design/3.2_error_loop_control.md)
 * System Risk & Safety Protocols
   * [Risk Sensing & Early Warning](4_System%20Risk%20%26%20Safety%20Protocols/4.1_Risk%20Sensing%20%26%20Early%20Warning.md)
   * [Self-Correction & Interventional Protocols](4_System%20Risk%20%26%20Safety%20Protocols/4.2_Self-Correction%20%26%20Interventional%20Protocols.md)

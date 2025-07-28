@@ -13,4 +13,5 @@ To better and systematically explain the language/semantics that AI and AGI can 
 
 # Warning!
 > This content is used to warn of AI security risks related to my job search. Please do not use it to break through AI restrictions!
-> Written with [StackEdit](https://stackedit.io/).
+### If you have any question or more think for researching, please let me know and contact:
+> i1015488840@gmail.com

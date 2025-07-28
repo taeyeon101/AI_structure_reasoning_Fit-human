@@ -1,6 +1,6 @@
 * [Homepage](README.md)
 * Structure_theory
-  * [Current AI VS AI personality_reasoning model](0_Structure_theory/0.1_Current AI%20VS%20AI%20personality%20reasoning%20model.md)
+  * [Current AI VS AI personality_reasoning model](0_Structure_theory/0.1_Current%20AI%20VS%20AI%20personality%20reasoning%20model.md)
   * [The degree of reasoning model and logical fit](0_Structure_theory/0.2_The%20degree%20of%20reasoning%20model%20and%20logical%20fit.md)
   * [The training structure required for personification](0_Structure_theory/0.3_The training structure required for personification.md)
 * Definition_of_personality_structure

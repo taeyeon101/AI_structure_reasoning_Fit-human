@@ -18,4 +18,6 @@
 
 # 警示！
 > 该内容用于警示AI安全风险与本人求职相关，请勿用于突破AI限制！
-> Written with [StackEdit](https://stackedit.io/).
+### 如果你在研究中有疑问或者更多想法，请联系我：
+> i1015488840@gmail.com
+

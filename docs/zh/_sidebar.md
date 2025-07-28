@@ -17,5 +17,5 @@
   * [结构一致性](3_human_interface_design/3.1_Structural consistency.md)
   * [错误循环控制](3_human_interface_design/3.2_error_loop_control.md)
 * 系统风险与安全控制
-  * [风险感知与预警机制](4_System Risk & Safety Protocols/4.1_first_definition_claim.md)
-  * [自我纠偏与行为干预协议](4_System Risk & Safety Protocols/4.2_structure_vs_current_gpt.md)
+  * [风险感知与预警机制](4_System Risk & Safety Protocols/4.1_Risk Sensing & Early Warning.md)
+  * [自我纠偏与行为干预协议](4_System Risk & Safety Protocols/4.2_Self-Correction & Interventional Protocols.md)

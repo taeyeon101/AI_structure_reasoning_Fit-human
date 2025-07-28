@@ -17,5 +17,5 @@
   * [Structural consistency](3_human_interface_design/3.1_Structural%20consistency.md)
   * [error_loop_control](3_human_interface_design/3.2_error%20loop%20control.md)
 * System Risk & Safety Protocols
-  * [first_definition_claim](4_System%20Risk%20%26%20Safety%20Protocols/4.1_Risk%20Sensing%20%26%20Early%20Warning.md)
+  * [Risk Sensing & Early Warning](4_System%20Risk%20%26%20Safety%20Protocols/4.1_Risk%20Sensing%20%26%20Early%20Warning.md)
   * [Self-Correction & Interventional Protocols](4_System%20Risk%20%26%20Safety%20Protocols/4.2_Self-Correction%20%26%20Interventional%20Protocols.md)

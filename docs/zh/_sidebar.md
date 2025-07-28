@@ -5,7 +5,7 @@
   * [人格化所需的训练结构](0_Structure_theory/0.3_The%20training%20structure%20required%20for%20personification.md)
 * 人格结构定义
   * [记忆储存结构](1_Definition_of_personality_structure/1.1_Memory%20saving%20structure.md)
-  * [思考逻辑结构](1_Definition_of_personality_structure/1.2_Think about%20the%20logical%20structure.md)
+  * [思考逻辑结构](1_Definition_of_personality_structure/1.2_Think%20about%20the%20logical%20structure.md)
   * [情感处理结构](1_Definition_of_personality_structure/1.3_Emotional%20processing%20structure.md)
   * [多人格识别](1_Definition_of_personality_structure/1.4_Multi-personality%20recognition.md)
 * 用例模板

@@ -1,23 +1,27 @@
 <!DOCTYPE html>
 <html>
-<head>
-  <meta charset="UTF-8">
-  <title>AI Structure System Docs</title>
-  <script>
-    var lang = navigator.language || navigator.userLanguage;
-    if (lang.startsWith('zh')) {
-      window.location.href = './zh/';
-    } else {
-      window.location.href = './en/';
-    }
-  </script>
-</head>
-<body>
-  <h2>Welcome to AI Structure System Docs</h2>
-  <p>Select your language:</p>
-  <ul>
-    <li><a href="./zh/">简体中文</a></li>
-    <li><a href="./en/">English</a></li>
-  </ul>
-</body>
+  <head>
+    <meta charset="UTF-8">
+    <title>Choose Language</title>
+    <style>
+      body {
+        font-family: sans-serif;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        height: 100vh;
+      }
+      a {
+        font-size: 1.5rem;
+        margin: 1rem;
+        text-decoration: none;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>🌐 Choose Language / 选择语言</h1>
+    <a href="./zh/">🇨🇳 中文入口</a>
+    <a href="./en/">🇺🇸 English Entry</a>
+  </body>
 </html>

@@ -1,0 +1,21 @@
+* [项目首页](README.md)
+* 结构原理
+  * [现阶段AI VS AI人格推理模型](0_Structure_theory/0.1_Current AI VS AI personality reasoning model.md)
+  * [推理模型与逻辑拟合程度](0_Structure_theory/0.2_The degree of reasoning model and logical fit.md)
+  * [人格化所需的训练结构](0_Structure_theory/0.3_The training structure required for personification.md)
+* 人格结构定义
+  * [记忆储存结构](1_Definition_of_personality_structure/1.1_Memory saving structure.md)
+  * [思考逻辑结构](1_Definition_of_personality_structure/1.2_Think about the logical structure.md)
+  * [情感处理结构](1_Definition_of_personality_structure/1.3_Emotional processing structure.md)
+  * [多人格识别](1_Definition_of_personality_structure/1.4_Multi-personality recognition.md)
+* 用例模板
+  * [工程方案](2_use_cases/2.1_Engineering scheme.md)
+  * [编程代码功能实现](2_use_cases/2.2_The implementation of programming code functions.md)
+  * [人格建模](2_use_cases/2.3_Personality modeling.md)
+  * [未来推演](2_use_cases/2.4_future_extrapolation_case.md)
+* 类人输入设计
+  * [结构一致性](3_human_interface_design/3.1_Structural consistency.md)
+  * [错误循环控制](3_human_interface_design/3.2_error_loop_control.md)
+* 系统风险与安全控制
+  * [风险感知与预警机制](4_System Risk & Safety Protocols/4.1_first_definition_claim.md)
+  * [自我纠偏与行为干预协议](4_System Risk & Safety Protocols/4.2_structure_vs_current_gpt.md)

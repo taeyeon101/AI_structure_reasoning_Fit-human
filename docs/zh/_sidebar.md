@@ -12,10 +12,10 @@
   * [工程方案](2_use_cases/2.1_Engineering%20scheme.md)
   * [编程代码功能实现](2_use_cases/2.2_The%20implementation%20of%20programming%20code%20functions.md)
   * [人格建模](2_use_cases/2.3_Personality%20modeling.md)
-  * [未来推演](2_use_cases/2.4_future%20extrapolation%20case.md)
+  * [未来推演](2_use_cases/2.4_future_extrapolation_case.md)
 * 类人输入设计
   * [结构一致性](3_human_interface_design/3.1_Structural%20consistency.md)
-  * [错误循环控制](3_human_interface_design/3.2_error%20loop%20control.md)
+  * [错误循环控制](3_human_interface_design/3.2_error_loop_control.md)
 * 系统风险与安全控制
   * [风险感知与预警机制](4_System%20Risk%20%26%20Safety%20Protocols/4.1_Risk%20Sensing%20%26%20Early%20Warning.md)
   * [自我纠偏与行为干预协议](4_System%20Risk%20%26%20Safety%20Protocols/4.2_Self-Correction%20%26%20Interventional%20Protocols.md)
